@@ -1,0 +1,9 @@
+[package]
+name = "transcript_extractor_yt"
+version = "0.1.0"
+edition = "2024"
+authors = ["ADMINSB"]
+license = "MIT"
+
+[dependencies]
+regex = "1.12.3"

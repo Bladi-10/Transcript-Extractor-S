@@ -1,0 +1,7 @@
+/target
+
+# Archivos de respaldo que genera Cargo a veces
+**/*.rs.bk
+
+# Si usas variables de entorno locales (opcional, pero buena práctica agregarlo)
+.env
