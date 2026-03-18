@@ -1,9 +1,9 @@
 [package]
-name = "transcript_extractor_yt"
+name = "transcript-extractor-sb"
 version = "0.1.0"
 edition = "2024"
 authors = ["ADMINSB"]
-license = "MIT"
+license = "GPL-3.0-or-later"
 
 [dependencies]
 regex = "1.12.3"

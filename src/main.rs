@@ -41,7 +41,7 @@ fn main() -> io::Result<()> {
     let input_path = "temp_sub.es.vtt";
     let output_path = "transcripcion_final.txt";
 
-    // 3. Procesar y limpiar el archivo (la lógica que ya estudiamos)
+    // 3. Procesar y limpiar el archivo 
     let file = match File::open(input_path) {
         Ok(f) => f,
         Err(_) => {
