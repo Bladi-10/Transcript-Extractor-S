@@ -39,7 +39,7 @@ fn main() -> io::Result<()> {
 
     // yt-dlp agregará automáticamente la extensión .es.vtt
     let input_path = "temp_sub.es.vtt";
-    let output_path = "transcript_video_0.txt";
+    let output_path = "transcript_video_00.txt";
 
     // 3. Procesar y limpiar el archivo 
     let file = match File::open(input_path) {

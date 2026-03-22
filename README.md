@@ -22,14 +22,18 @@ Para ejecutar este proyecto, necesitas tener instalado:
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/transcript-extractor-rs.git
-   cd transcript-extractor-s
+   git clone https://github.com/tu-usuario/Transcript-Extractor-S.git
+
+   
+   cd Transcript-Extractor-S
    ```
 2. Compila y ejecuta:
    ```bash
    cargo run
    ```
 3. Introduce la URL del video de YouTube cuando se te solicite.
+
+4. Al finalizar el proceso veras: ¡Éxito! La transcripción limpia se ha guardado en: transcript_video_00.txt
 
 ## Detalles Técnicos
 
