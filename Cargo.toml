@@ -1,8 +1,8 @@
 [package]
-name = "transcript-extractor-sb"
+name = "transcript-extractor-s"
 version = "0.1.0"
 edition = "2024"
-authors = ["ADMINSB"]
+authors = ["S"]
 license = "GPL-3.0-or-later"
 
 [dependencies]

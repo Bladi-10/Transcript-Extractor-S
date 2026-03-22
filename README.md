@@ -23,7 +23,7 @@ Para ejecutar este proyecto, necesitas tener instalado:
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/tu-usuario/transcript-extractor-rs.git
-   cd transcript-extractor-rs
+   cd transcript-extractor-s
    ```
 2. Compila y ejecuta:
    ```bash
@@ -33,7 +33,7 @@ Para ejecutar este proyecto, necesitas tener instalado:
 
 ## Detalles Técnicos
 
-- **Nombre del Paquete:** transcript-extractor-rs
+- **Nombre del Paquete:** transcript-extractor-s
 - **Versión:** 0.1.0
 - **Licencia:** GPL-3.0-or-later (Open Source)
 - **Dependencias:**
