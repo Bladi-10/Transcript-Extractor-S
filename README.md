@@ -15,7 +15,13 @@ Para ejecutar este proyecto, necesitas tener instalado:
 
 1. **Rust**: [Instalar Rust](https://www.rust-lang.org/tools/install)
 2. **yt-dlp**: Herramienta externa necesaria para la descarga de subtítulos.
-   - En Linux: `sudo curl -L https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -o /usr/local/bin/yt-dlp && sudo chmod a+rx /usr/local/bin/yt-dlp`
+   - En Linux (Recomendado):
+     ```bash
+     sudo add-apt-repository ppa:tomtomtom/yt-dlp
+     sudo apt update
+     sudo apt install yt-dlp
+     ```
+   - Alternativa (binario): `sudo curl -L https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -o /usr/local/bin/yt-dlp && sudo chmod a+rx /usr/local/bin/yt-dlp`
    - O vía pip: `pip install yt-dlp`
 
 ## Instalación y Ejecución
